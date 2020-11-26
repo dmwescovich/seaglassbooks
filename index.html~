@@ -18,9 +18,7 @@
 				<h1>Sea Glass Book Company</h1>
 				<p>Coming to O'Fallon, Illinois -- Spring 2021</p>
 			</header>
-			<article>
-			    <p>While we continue planning and preparing our new brick and mortar independent bookshop, please check out our <a href="https://bookshop.org/shop/seaglassbooks">online bookshop</a>. Maybe start with what we are <a href="https://bookshop.org/lists/currently-reading-9fed57f3-bc55-4ff6-9011-40ab726fd6a3">reading right now</a> at Sea Glass Book Company. (Disclosure: Sea Glass Book Company is an affiliate of Bookshop.org and we will earn a commission if you click through and make a purchase.)</p>
-			</article>
+
 		<!-- Signup Form -->
 			<!-- <form id="signup-form" method="post" action="#">
 				<input type="email" name="email" id="email" placeholder="Email Address" />
